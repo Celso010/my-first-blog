@@ -28,7 +28,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #626060;
+    color: #f30707;
 }
 
 .save {
@@ -40,7 +40,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #f30707;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
