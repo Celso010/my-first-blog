@@ -20,6 +20,6 @@ from django.http import HttpResponse
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', lambda x: HttpResponse("testando aplicação em pagina test")),
+   # path('', lambda x: HttpResponse("testando aplicação em pagina test")),
     path('', include('blog.urls')),
 ]
